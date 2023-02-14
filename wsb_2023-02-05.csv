@@ -1,0 +1,746 @@
+,subreddit,unique_id,title,selftext,upvote_ratio,upvote,downvote,score,num_comments
+0,wallstreetbets,t3_10sv3v5,"Weekend Discussion Thread for the Weekend of February 04, 2023","**Watch WallStreetBets discuss markets on[](https://twitter.com/Official_WSB) [Twitch](https://twitch.tv/wsbverse) and [YouTube](https://www.youtube.com/channel/UCRPCE1kzX-JHzcAHfPSs87Q?sub_confirmation=1)**
+
+Follow [Twitter](https://twitter.com/Official_WSB), join [Discord](https://discord.gg/wsbverse), play [ban bets](https://www.reddit.com/r/wallstreetbets/wiki/banbets)! 
+
+Check out last week's [Earnings Thread](https://www.reddit.com/r/wallstreetbets/comments/10tg0rc/most_anticipated_earnings_releases_for_the_week) and [Rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide). DM the [mod inbox/sex line](https://www.reddit.com/message/compose/?to=/r/wallstreetbets)",0.89,144,0,144,12716
+1,wallstreetbets,t3_10sa9re,When new “expert” regards try to convince veteran regards to get on board their “plays.”,,0.94,47,0,47,10
+2,wallstreetbets,t3_10tq74h,"If u ever feel dumb, know that this exists",,0.95,6823,0,6823,600
+3,wallstreetbets,t3_10tlc85,Actual footage of bulls next week,,0.97,8698,0,8698,183
+4,wallstreetbets,t3_10to2iy,when you realized you screwed up,,0.87,1138,0,1138,182
+5,wallstreetbets,t3_10tkroy,AMZN 37k -&gt; 137k,"AMZN 85C 17FEB23 @ 5.31 x 50, sold half at 20.7 day before earnings and the rest at 21.5 shortly after. Didn't want to wait for earnings because it seemed too green and felt sus. 
+
+History: https://reddit.com/r/wallstreetbets/comments/zy6sjy/amzn_is_a_buy/",0.94,1304,0,1304,108
+6,wallstreetbets,t3_10tybzm,A Fellow Regard?,,0.94,131,0,131,33
+7,wallstreetbets,t3_10t3aw1,My brother rang the bell at NYSE today and look who was there,,0.86,19271,0,19271,1526
+8,wallstreetbets,t3_10tf4i2,Blew up my account trading options. I will stick to stocks and disable options. feeling numb and dumb.,,0.94,1422,0,1422,600
+9,wallstreetbets,t3_10toqua,The Castle on the Sand," 
+
+***TLDR: Kenneth Griffin and Citadel are running the single most profitable high-frequency market manipulation schemes in modern history. However, high-frequency trading comes with a significant number of risks that can cause flash crashes and general market failure. I also believe that Citadel has been executing a majority of its trades by using shares that it does not own, or by taking advantage of failures in the integrity of exchanges.***
+
+**PREFACE**
+
+Since the origination of the US stock exchange in 1792, countless investors have tried their hands at identifying profitable strategies for building their wealth. In the beginning, these strategies were relatively straightforward. First, find a business that you believe in. Next, take your own hard-earned money and extend a show of faith to the business that you believe will generate substantial returns. Then, after years of development and growth, reap the rewards of your faith through returns on your investment.
+
+I believe that, at their core, stock markets are fundamental to any economy. In its purest form, a stock market is a way for economies to establish healthy competition between corporations. It ensures financial liquidity and provides a necessary depressurization outlet for excess capital. In short, markets and exchanges provide the heartbeat of an economy.
+
+At their worst, they are vehicles for manic speculation. They are Petri dishes for fraud that potentiate corporate greed and allow those who are already incredibly wealthy to inflate that wealth to hilarious levels. They are cold and emotionless; only serving as a vacuum for capital. In the end, the ticker takes over and becomes the business itself.
+
+I believe that there is one fund in particular that is single-handedly propping up the market through its manipulative options and short-selling strategies; ***Citadel LLC.*** Although I'm sure this doesn't come as a surprise to many of those who frequent this subreddit, I'll still include a **brief** synopsis below.
+
+In 1990, a man named Kenneth Griffin founded Citadel LLC.
+
+From 2007-2008, Citadel barred investors from withdrawing money from their 7:1 levered accounts
+
+In 2011, Citadel recruited energy traders from Enron the day after it collapsed
+
+In 2021, Citadel and Point72 Capital invested $2.75 billion in Melvin Capital after their infamous 53% value collapse
+
+From 2014-2022, Citadel currently has 74 FINRA disclosures on file that detail a multitude of fraudulent trading activities.
+
+**SUMMARY**
+
+Below is a clip from Citadel Securities LLC's official FINRA BrokerCheck report showing the total number of regulatory filings against them.
+
+&amp;#x200B;
+
+https://preview.redd.it/bf3ltt3zx7ga1.png?width=1558&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=e5510b1a5ef8bfd435015e5a3ccfefb98b6bfdac
+
+&amp;#x200B;
+
+https://preview.redd.it/72ifzw71y7ga1.png?width=1302&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=379d19a81e0e2a91f45ba822f606da40fdc07ecd
+
+Above is an example of the claim by NASDAQ MRX against Citadel for options manipulation. Specifically, the allegations pertain to [Rule 13c 3-5](https://www.sec.gov/divisions/marketreg/faq-15c-5-risk-management-controls-bd.htm) of the SEC's Securities Exchange Act. It is important to note that almost all brokers/hedge funds have a few flags on their FINRA reports due to untimely filings, erroneous orders, or the like. However, Citadel has an ***Abnormally large number*** of these ""errors"".
+
+When confronted with these allegations, it is almost always easier to pay the $xxx,xxx fine rather than admit to any wrongdoing or go to court. To be exact, from 2010-present Citadel has paid over $60 million in fines alone from pre-trade manipulation claims by various markets. I will post the most significant injunction below.
+
+&amp;#x200B;
+
+https://preview.redd.it/cy68k7l2y7ga1.png?width=1161&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=08de8fa79944aa11032e98552ad83701efe114f6
+
+What this injunction suggests, is that Citadel knowingly manipulated market orders from their clearing service. These manipulations can include marking short orders as long orders, backdating trade dates to make it appear as though profits or losses were made during a certain period when they were not, or misrepresenting the types of securities sold.
+
+&amp;#x200B;
+
+https://preview.redd.it/j02sol37y7ga1.png?width=787&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=71f8c4751c441469ba17b5aaeb6993257f1d3a95
+
+80 million trades were misrepresented in SEC documentation
+
+&amp;#x200B;
+
+https://preview.redd.it/dsv8oz38y7ga1.png?width=827&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=104860afce30e8bbf98680741137af233826c884
+
+Cited as ""undetected coding errors""
+
+If you are familiar with Bernie Madoff's infamous Ponzi operation, these reports bear a striking resemblance to the SEC's own findings in the year-long proceedings. However, I don't believe that they're operating in the exact same manner.
+
+Citadel is a pooled investment vehicle, which means they pool investor funds to purchase assets, securities, and commodities. Their SEC EDGAR 13F-HR reports do not necessarily raise any specific red flags, but it does raise some interesting questions.
+
+&amp;#x200B;
+
+https://preview.redd.it/whruo51x18ga1.png?width=977&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=5ccb05b6891a8763568f013251b52f47abbb4686
+
+It is not uncommon for hedge funds to use manipulative options strategies, but the exception with Citadel is the sheer size and scale at which they can operate. Typically these manipulation techniques involve ""spoofing"" or placing large numbers of bid or ask orders and then canceling those orders prior to fulfillment. This artificially inflates or deflates stock prices and can manipulate spreads or supply/demand curves.
+
+Large high-frequency trading firms can also front-run trades or place trades of their own in front of large trades they see coming through in their own dark pools. Again, this is not inherently *illegal* per se, but it does exemplify the informational inequality between institutional and retail traders. What crosses the line from ""technically legal"" to ""illegal"" with regard to Citadel's operations is the blatant disregard for NBBO regulations that hold firms accountable for ensuring they have the shares to back their trades. ***In summary, Citadel most likely does not even own the large majority of the shares it is trading.*** These strategies have historically wreaked havoc in markets, and with the latest crash of the NYSE, it appears to be happening once again. At some point, exchanges simply can't keep up with the volume of trades coming through at once in a fraction of a second.
+
+**So if this technique has been used for so long without issue, then why does it matter?**
+
+Fundamentally speaking, the stock market operates on the assumption that issued shares by a company accurately reflect the laws of supply and demand. Whereas, a company that has solid fundamentals, growth, and revenue will be worth more than a company that is struggling to remain solvent. **Shareholder dilution** has been largely **ignored** over the past few years, and this is understandable as the number of dollars available to purchase shares has increased significantly. Just as the treasury can print a theoretically unlimited number of dollars, so too can companies print a theoretically unlimited number of shares.
+
+We've become so used to share issuances, stock splits, and ""Fail to Deliver"" orders that we've completely lost sight of the inherent dangers of share dilution. Share dilution can be overlooked in markets that are flushed with capital, as the money must have more assets to chase. However, when markets begin to slow down, the supply of shares floating in the market becomes an exponentially compounding liability. We have companies with over 100% of their float being owned by institutions, and many have indirect ties to Citadel. For example, here is a recent SEC filing of Citadel Securities LLC.
+
+&amp;#x200B;
+
+https://preview.redd.it/ar99jwxby7ga1.png?width=1151&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=447451cf5f5e5fd9175a112fb9a06486dcc19f52
+
+https://preview.redd.it/euacawxby7ga1.png?width=1037&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=9a5fa4d253e9f1fe812236eb12876308824bd78e
+
+https://preview.redd.it/e9iiswxby7ga1.png?width=1131&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=08808113637e16c9f7d0e4b640d4dc56547b944c
+
+&amp;#x200B;
+
+As you can see, Citadel Advisors LLC is the original purchaser of the stock issuance followed by Kenneth Griffin's own purchase. This specific stock's float is already 101.6% held. This happens over and over again in Citadel's filings.
+
+1st: Citadel subsidiaries purchase a large number of outstanding shares
+
+2nd: Kenneth Griffin purchases a large percentage of the class himself
+
+3rd: Kenneth Griffin offloads shares once the capital from Citadel subsidiaries has sufficiently spiked the price of the stock
+
+It is a recurring cycle that may not necessarily be illegal but has incredibly devastating implications for the market. It also implies that Kenneth Griffin may be utilizing clients' capital through Citadel subsidiaries for personal gain.
+
+**THE VIX AND THE NASDAQ**
+
+I believe that the VIX is one of these complexes that has been heavily manipulated by HFT firms. I have written a post specifically regarding the VIX complex, so I won't go into detail in this post. However, since VIX-related assets like UVXY, VXX, and UVIX are often used as insurance against market declines,  believe they are well-positioned to experience a large spike in activity if these high-frequency trading strategies fail or create a ""flash crash"" scenario. 
+
+Furthermore, the VIX is currently sitting at 18.33, near its 52-week low of 17.06. If the suppression measures in place fail, regardless of market direction or sentiment, it could easily spike. It should be noted, however, that leveraged assets like UVXY often decay quickly. 
+
+The NASDAQ Exchange (NDAQ) is also in an impossible situation. In 2021 alone, there were over 1,000 new IPOs. The largest amount during a 1 year period in modern history. Many of these IPOs are at risk of being delisted due to exchange regulations. Recently, NDAQ has seen a rise in revenue from products and fees tied to listings and management expenses from this euphoric rise in IPO interest. However, I believe that as SPACs and ""zombie IPOs"" begin to fail, they will experience a sharp decline in associated revenue. As a matter of fact, they already are.
+
+&amp;#x200B;
+
+[NDAQ Working capital at an all-time low](https://preview.redd.it/qc0lsk1j18ga1.png?width=1200&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=79e335380204ea3e3b3c2b74c5d62ac1318e0090)
+
+**CONCLUSION**
+
+I understand that this is not an exhaustive report, and there are many other aspects of Citadel's operations that need to be investigated by professionals before a conclusion can be made regarding its illicit operations. All I know is that history has shown over and over again that institutions that post record-breaking quarters during periods of significant economic decline or volatility are *most likely* doing so by manipulative or outright fraudulent activities. In the coming months, the damage done by manipulative high-frequency options and stock trading will become pronounced. I view the best general-interest methods of profiting during an event such as this to be PUTS on exchanges such as NDAQ or ICE and shares/CALLS of Vix-related assets.
+
+It is only a matter of time before the cracks in the glass shatter entirely, and the world sees that Kenneth Griffin's Citadel has been built on sand.
+
+***And the tide is coming in quickly.***",0.88,301,0,301,80
+10,wallstreetbets,t3_10tzr2c,Nothing can Distract Jerome from Saving our Economy!,,0.86,60,0,60,24
+11,wallstreetbets,t3_10tx5xb,Sell. (X-posted from r/dataisbeautiful),,0.84,85,0,85,64
+12,wallstreetbets,t3_10tv7ec,In honor of the F-22's triumphal air-to-air battle in the skies above the continental USA,,0.89,98,0,98,37
+13,wallstreetbets,t3_10typau,Am I doing this right???,,0.81,27,0,27,18
+14,wallstreetbets,t3_10tp7p3,"I've lost nearly $70k since '21. Never double down on your options like me. Biggest wins were LCID and CLOV, but those burned me later",,0.88,97,0,97,41
+15,wallstreetbets,t3_10u0azo,The market never actually bottoms before a recession.,,0.92,19,0,19,19
+16,wallstreetbets,t3_10spfi5,NFLX SEP 15 '23 190 PUT,,0.93,26671,0,26671,572
+17,wallstreetbets,t3_10tlw62,Thesis: Bulls will soon be castrated,"I'll try and keep it simple. IMO, jobs are the final pillar holding up the market and they're about to come crashing down in the coming months. Excuse my highly regarded charts, I did the best I could.
+
+1.) The jobs report on Friday was more than double of what people were expecting. The president is even taking a victory lap as the greatest job creator we have ever seen. IMO this is the top.
+
+ https://twitter.com/POTUS/status/1621565430316908544?s=20&amp;t=yyos40wLnS5DjxkWQNJIfg 
+
+&amp;#x200B;
+
+2.) Below are a couple historical charts from 2000.
+
+&amp;#x200B;
+
+[Mar 2000: 5.85 Percent Federal Funds Effective Rate Shaded areas indicate U.S. recessions. Source: Board of Governors of the Federal Reserve System \(US\)](https://preview.redd.it/upnft9glf7ga1.png?width=1168&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=96a7f6f800b0826d71b03469f1e630aaadef7a5a)
+
+&amp;#x200B;
+
+The above chart shows the fed funds rate in March 2000. Very close to peak rates for that cycle. Sound familiar?
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+https://preview.redd.it/lnuoetkqf7ga1.png?width=898&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=b4dd1c8fc2f30c8df8ba47920951ac76ee691dc3
+
+This chart shows the job numbers for 1999 and 2000. The march 2000 jobs report of 485k is an outlier and the top of the jobs market. 
+
+3.) IMO, we are currently in another bear market rally and the market will reach new lows in this cycle relatively soon. The Bull party may go through February, but the Bears dance in March and April IMO. 
+
+&amp;#x200B;
+
+Full Disclosure:  my favorite crayon to munch on is Indigo and I will be including this post on my resume when I apply to Wendys...",0.68,100,0,100,206
+18,wallstreetbets,t3_10tnqpq,jwn,,0.87,78,0,78,8
+19,wallstreetbets,t3_10tg0rc,"Most Anticipated Earnings Releases for the week beginning February 6th, 2023",,0.94,201,0,201,138
+20,wallstreetbets,t3_10tywsi,"WallStreetBets back on The Economist - ""The last gasp of the meme-stock era""","TLDR:
+
+Individual traders are more important than they used to be, even if they are far from the peak of their powers. In 2019 the retail share of stock-trading volumes hovered at around 15%. Then, in the first quarter of 2021, it peaked at 24%. This figure understated the true power of retail investors. 
+
+ When the stockmarket rallies, it is faddish favourites, like GameStop and Tesla, leading the charge.
+
+ Investing is normally a serious business. But even as the hold-on-for-dear-life gang let go of their treasures and rethink their old grudges, their influence is still felt. There are already plenty of Hindenburg versus Adani memes on r/WallStreetBets, the Reddit forum where it all began.
+
+# ---
+
+Source: [Unpaywalled](https://archive.is/JyIl4), and [Original](https://www.economist.com/finance-and-economics/2023/02/02/the-last-gasp-of-the-meme-stock-era)
+
+Two years ago the stockmarket was in the grip of speculative mania. Shares in GameStop, a struggling video-game retailer, hit an all-time intraday high of $483 on January 28th 2021, up from around $5 at the beginning of the month. Retail traders co-ordinated in a Reddit forum and snapped up shares using brokerage apps like Robinhood. Empowered by technology, newcomers piled into GameStop, ostensibly because the beleaguered chain was one Wall Street had heavily sold short (ie, bet that the firm’s shares would fall in price). Short-sellers were the villains. When GameStop spiked they lost their shirts. What could be better?
+
+The question at the time was how much of this would endure. Manias are as old as the hills, but this one seemed different: it was enabled by new technology that wasn’t going anywhere. For a time, the GameStop crew were unstoppable. They pumped up prices for companies that had attracted interest from short-sellers, such as amc, a cinema chain, and Bed, Bath &amp; Beyond, a home-goods retailer. Battle-hardened short-sellers, including Andrew Left of Citron, a research firm, threw in the towel. Melvin Capital, a firm that had shorted GameStop, which the Reddit hordes made the cartoon villain of the saga, decided to close its doors in May 2022.
+
+When interest rates are zero the price of a dream can be infinite. Higher rates change the dynamic. Last year was therefore rough on the meme-portfolio, but its fans are nothing if not resilient, even when making losses. Matthias Hanauer of Robeco, an asset manager, tracks the most heavily shorted stocks in the msci Developed Index, a benchmark of global shares. Since December 31st 2020, a month before GameStop shares peaked, they have underperformed the market by around 15 percentage points.
+
+If 2022 was a reckoning with professional investors, then 2023 will be a reckoning with reality. A slowing economy is going to break many of the companies meme-stockers profess to adore. Monetary tightening slows the economy with a lag. As conditions worsen, struggling retailers, such as Bed, Bath and Beyond, are floundering. On January 26th the shower-curtain purveyor was served a slew of default notices by its bankers. Reuters, a newswire, has reported it may soon file for bankruptcy.
+
+The end of more than a decade of rock-bottom interest rates is also beginning to reveal corporate misdeeds and sometimes outright fraud. “Capital was free for 12 years,” says a former Wall Street tycoon. “We have no idea about all the places capital went that it should not have gone.” Some initial pockets of misallocation have become apparent. The pricking of the bubble in cryptocurrency markets has exposed businesses including Celsius and ftx, the founders of which have been charged with defrauding their investors.
+The stage is therefore set for the triumph of those the meme-stock lot profess to hate most of all: short-sellers, who try to sniff out this sort of stuff. Nathan Anderson, founder of Hindenburg Research and a famed short-seller, has already made quite a splash with an investigation into what he alleges is widespread fraud and market manipulation at the Adani Group, an enormous Indian conglomerate, which strongly denies the claims.
+
+What, then, is left of the retail era? Individual traders are more important than they used to be, even if they are far from the peak of their powers. In 2019 the retail share of stock-trading volumes hovered at around 15%. Then, in the first quarter of 2021, it peaked at 24%. This figure understated the true power of retail investors. Exclude marketmakers, who stand in the middle of most trades, and retail traders made up about half of volumes, with institutional investors accounting for the rest. Although retail traders’ share fell to an average of 18% in 2022, or around one-third excluding marketmakers, this is still above where things started. When the stockmarket rallies, it is faddish favourites, like GameStop and Tesla, leading the charge.
+
+Perhaps what will endure longest, though, is the levity. Investing is normally a serious business. But even as the hold-on-for-dear-life gang let go of their treasures and rethink their old grudges, their influence is still felt. There are already plenty of Hindenburg versus Adani memes on r/WallStreetBets, the Reddit forum where it all began. These echo the ones made about Melvin versus GameStop two years ago, with a small difference. This time Mr Anderson, the short-seller, is the hero.",0.76,13,0,13,24
+21,wallstreetbets,t3_10th4uv,Watch your back,,0.86,124,0,124,12
+22,wallstreetbets,t3_10tqzau,"Options Level 3 Approval, Naked Options Skill Unlocked","This is it everyone.  
+I have finally unlocked the rare skill of naked options.
+
+https://preview.redd.it/z0jsqfzhh8ga1.png?width=545&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=5800a5bf04f8537785b46fb3f5e2923ccd7e5f26
+
+The good people at Schwab are working hard on a Saturday morning to ensure degenerates can go full regard first this Monday.
+
+For whatever reason, the regards at Schwab took away the max timeline option on the graph.  
+So this only goes back 2 years.  
+
+
+I had some crazy swings in 2020 and of course early 2021 (35K --&gt; 500K,  500K --&gt; 0, etc....)  
+However, the current 2 year chart should give you all an idea of what to expect.
+
+https://preview.redd.it/9afgil8hi8ga1.png?width=2509&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=6bf111801a129786ae54522ec9c738d23d3ce1ab
+
+Feast or famine, fat cats and starving dogs, lambos or Wendy's, etc...  
+If any of you have been following my degenerate plays as of late, get ready because we're going to have to take it up another notch.
+
+I put the flair as discussion because I want everyone to discuss how and when my inevitable downfall will be.",0.88,36,0,36,29
+23,wallstreetbets,t3_10t4299,High Probability Recession Hits U.S. Economy in Late 2023,,0.85,754,0,754,371
+24,wallstreetbets,t3_10sulqf,"Took out a 25k loan back in March 2022 because I'm dumb. Lost it within a month. Just paid it off in full. Gambling is bad, kids.",,0.97,2763,0,2763,808
+25,wallstreetbets,t3_10t3ipp,Figured out why everyone hasn't been achieving unlimited profit with their trades. They haven't read the book.,,0.97,756,0,756,194
+26,wallstreetbets,t3_10t5rou,2023 is TSLA bear season pt.2,,0.88,454,0,454,120
+27,wallstreetbets,t3_10u39s5,"Most anticipated earnings releases for the week beginning February 6, 2023",,1.0,5,0,5,4
+28,wallstreetbets,t3_10titiu,Don't miss out on the next bull market,,0.82,62,0,62,38
+29,wallstreetbets,t3_10trij3,Robinhood: Risky Gamble or Lucrative Venture?,"Good morning, good afternoon, good evening, and goodnight fellow regarded investors.
+
+&amp;#x200B;
+
+***TLDR:*** 
+
+Short term bullish on Hood from growth caused by FTX collapse, and reliable revenue generation from margin and payment-for-order-flow in a bear market. Longer term bearish as SBF's Hood shares may be used to cover court expenses and compensation to FTX stakeholders.
+
+&amp;#x200B;
+
+**DD:** 
+
+This post is DD as of 2/4/2023. This post contains my BIASED opinions as well as factual information. I will cite any factual information. This post is biased because I am currently in a bullish position for Robinhood &lt;$HOOD&gt;. 
+
+**Robinhood: Brief Overview**
+
+*History:*
+
+Robinhood is the first broker to bring ""free trading"" to retail investors (Investopedia - 1). Being the first broker to bring ""free trading"" to retail investors is no small feat. This is one of a few reasons that Robinhood has brought 22.9 million accounts to their platform as of Q3, 2022 (Q3 HOOD, pg 6). As the market &lt;SNP500&gt; rose from Q4 2020-Q3 2021, Robinhood experienced a related growth in Monthly Active Users from 11.7 million to a peak of 21.3 million (Q3 HOOD, pg7). During this time of growth the initial meme stock madness of Gamestop &lt;GME&gt; took place, where Robinhood removed the opportunity for investors to purchase GME shares  (CNBC). Many investors were outraged at Robinhood as they could no longer buy GME. Despite outrage, Robinhood had another quarter of user growth as this event unfolded in Q1 2022 (Q3 HOOD, pg 7). Not only did HOOD have growth during the quarter involving the outrage over GME, but the growth extended into the following quarter &lt;Q2,2021&gt; as well (Q3 Hood, pg7)!
+
+*Operations:*
+
+""Robinhood Markets, Inc. operates financial services platform in the United States. Its platform allows users to invest in stocks, exchange-traded funds (ETFs), options, gold, and cryptocurrencies. The company also offers various learning and education solutions comprise Snacks, a digest of business news stories; Learn, which is a collection of approximately articles, including guides, feature tutorials, and financial dictionary; Newsfeeds that offer access to free premium news from various sites, such as Barron's, Reuters, and The Wall Street Journal; lists and alerts, which allow users to create custom watchlists and alerts to monitor securities, ETFs, and cryptocurrencies, as well as cash management services; and offers First trade recommendations to all new customers who have yet to place a trade. Robinhood Markets, Inc. was incorporated in 2013 and is headquartered in Menlo Park, California."" (Yahoo Finance - Profile)
+
+*OK... so what do they actually do?*
+
+Payment for order flow, margin, stock lending, cash sweep (Q3 Financials, pg 17). A Broker &lt;kinda&gt;.
+
+Importantly, I believe that payment for order flow and margin are the most important components to Robinhood's operations. 
+
+Robinhood allows investors to use margin on their accounts.  From Robinhood's website as of 2/4/2023: ""Robinhood Financial charges a standard margin interest rate of 11.25% and a margin interest rate of 7.25% for customers who subscribe to Gold. The margin interest rate is calculated by adding 6.5% (for non-Gold customers) or 2.5% (for Gold customers) to the upper bound of the Target Federal Funds Rate, which is set by the Federal Reserve and is subject to change without notice."" (Hood - Margin). What's important here is that Robinhood is giving non gold members margin at a steep price, while incentivizing users to move to Gold &lt;$5/month&gt; for more favorable terms.
+
+Users with Gold are guaranteed $5 revenue per month regardless of margin utilization or orders placed. 
+
+**The Play:**
+
+*Current Thesis:*
+
+I am currently in, and will increase my short-term bullish position. I expect a drop in the stock price in the long term, so I have a long term bearish position as well.
+
+*Bullish:*
+
+November 11, 2022, FTX collapse (Investopedia - 2). Vlad Tenev &lt;HOOD CEO&gt; tweets the following during the FTX collapse: ""In this 'flight to safety', we're proud that customers are turning to Robinhood. "" (Vlad - Twitter). This migration which took place in Q4 2022, was likely not forecasted by analysts or Robinhood themselves. This shift in crypto may cause investors who have moved away from Robinhood to return, and possibly bring their other assets with them. My speculation is that more investors came back to or started with Robinhood increasing assets, and increasing revenues.
+
+The market &lt;SNP 500&gt; was down over 2022, this may have caused retail investors to be locked into their losing positions. If an investor were to have purchased the security on margin, they were forced to hold or sell at a loss. Selling the losing position and likely entering into a new position generates payment for order flow revenue for HOOD. Holding the position and waiting for the market to turn around generates revenue on the margin lent to the investor. As of Q3 2022, margin revenue was up 31% Y/Y (Q3 Financials, pg 17). Ultimately, no matter what investors did during 2022, Hood profited. 
+
+*Bearish:*
+
+Sam Bankman-Fried &lt;SBF&gt;, former owner and CEO of FTX owned a few shares of Robinhood... 56 million shares (Coindesk - SBF). Based on the shares outstanding &lt;835.68 million (Yahoo Finance - Statistics)&gt; SBF held about 6.7% of the outstanding shares. SBF will need to pay for court expenses, and it's likely the assets could be used to pay back stakeholders affected by the FTX collapse.  
+
+How will he pay for court expenses and compensate the stakeholders? Hood selloff - increasing the number of shares floating will drive down the price of Robinhood. 
+
+&amp;#x200B;
+
+Works Cited:
+
+[https://www.investopedia.com/investing/free-stock-trading-whats-catch/#:\~:text=Robinhood%20pioneered%20commission%2Dfree%20trading,flow%20rose%20rapidly%20during%202020](https://www.investopedia.com/investing/free-stock-trading-whats-catch/#:~:text=Robinhood%20pioneered%20commission%2Dfree%20trading,flow%20rose%20rapidly%20during%202020). (Investopedia - 1)
+
+&amp;#x200B;
+
+[https://s28.q4cdn.com/948876185/files/doc\_financials/2022/q3/Q3-2022-Earnings-Presentation-vFinal.pdf](https://s28.q4cdn.com/948876185/files/doc_financials/2022/q3/Q3-2022-Earnings-Presentation-vFinal.pdf) (Q3 HOOD)
+
+&amp;#x200B;
+
+[https://www.cnbc.com/2021/01/28/robinhood-interactive-brokers-restrict-trading-in-gamestop-s.html](https://www.cnbc.com/2021/01/28/robinhood-interactive-brokers-restrict-trading-in-gamestop-s.html) (CNBC)
+
+&amp;#x200B;
+
+[https://finance.yahoo.com/quote/HOOD/profile?p=HOOD](https://finance.yahoo.com/quote/HOOD/profile?p=HOOD) (Yahoo Finance - Profile)
+
+&amp;#x200B;
+
+[https://s28.q4cdn.com/948876185/files/doc\_financials/2022/q3/afc62224-c731-412d-b698-ec897defa531.pdf](https://s28.q4cdn.com/948876185/files/doc_financials/2022/q3/afc62224-c731-412d-b698-ec897defa531.pdf) (Q3 Financials)
+
+&amp;#x200B;
+
+[https://www.investopedia.com/what-went-wrong-with-ftx-6828447#:\~:text=FTX%20in%20November%202022%20faced,the%20company%20filed%20for%20bankruptcy](https://www.investopedia.com/what-went-wrong-with-ftx-6828447#:~:text=FTX%20in%20November%202022%20faced,the%20company%20filed%20for%20bankruptcy). (Investopedia - 2)
+
+&amp;#x200B;
+
+[https://twitter.com/vladtenev/status/1590587234960691200?cxt=HHwWgMDSwbaq85IsAAAA](https://twitter.com/vladtenev/status/1590587234960691200?cxt=HHwWgMDSwbaq85IsAAAA) (Vlad - Twitter)
+
+&amp;#x200B;
+
+[https://robinhood.com/us/en/support/articles/margin-overview/](https://robinhood.com/us/en/support/articles/margin-overview/) (Hood - Margin)
+
+&amp;#x200B;
+
+[https://finance.yahoo.com/quote/HOOD/key-statistics/](https://finance.yahoo.com/quote/HOOD/key-statistics/) (Yahoo Finance - Statistics)
+
+&amp;#x200B;
+
+[https://www.coindesk.com/business/2023/01/06/sam-bankman-fried-seeks-to-keep-grasp-on-450m-in-robinhood-shares/](https://www.coindesk.com/business/2023/01/06/sam-bankman-fried-seeks-to-keep-grasp-on-450m-in-robinhood-shares/) (Coindesk - SBF)",0.63,20,0,20,68
+30,wallstreetbets,t3_10tomfu,The Retreat of the Amateur Investors- WSJ,"[https://www.wsj.com/articles/the-retreat-of-the-amateur-investors-11675486817?st=z8j9sk8oddo581h&amp;reflink=desktopwebshare\_permalink](https://www.wsj.com/articles/the-retreat-of-the-amateur-investors-11675486817?st=z8j9sk8oddo581h&amp;reflink=desktopwebshare_permalink)
+
+Amateur trader Omar Ghias says he amassed roughly $1.5 million as stocks surged during the early part of the pandemic, gripped by a speculative fervor that cascaded across all markets. 
+
+As his gains swelled, so did his spending on everything from sports betting and bars to luxury cars. He says he also borrowed heavily to amplify his positions.
+
+When the party ended, his fortune evaporated thanks to some wrong-way bets and his excessive spending. To support himself, he says he now works at a deli in Las Vegas that pays him roughly $14 an hour plus tips and sells area timeshares. He says he no longer has any money invested in the market...",0.82,28,0,28,29
+31,wallstreetbets,t3_10tp0gx,True regards. Sideways it is.,,0.77,27,0,27,18
+32,wallstreetbets,t3_10tsmod,Will Chinese stocks listed on American exchanges suffer with this balloon shot down incident?," The first Chinse spy balloon was just shot down over the US. In your opinion will prices of Chinese stocks fall irrationally now? Chinese stocks are getting very popular especially with the re-opening and easing financial conditions in China.. but with this news of the balloon shoot down, do we need to quickly exit those stocks? Not sure how to handle this geopolitical aspect.",0.59,14,0,14,139
+33,wallstreetbets,t3_10ttt6w,Can you guys tell which of the 3 spends more than net cash flow on buy backs?,,0.7,11,0,11,23
+34,wallstreetbets,t3_10u4d9b,"it's still wild to me that no matter how poor a company actually performs, the market is all conjoined at the hip and will jump anyway.",,0.67,3,0,3,5
+35,wallstreetbets,t3_10tuaet,AMZN Price Target Updates - Trust the Analysts?,"Analysts covering Amazon AMZN have come out and updated their price targets after we saw them report this week. Most are implying 40-50% upside in 12 months. Easy money on LEAPs?
+
+How wrong do you think this turns out to be?
+
+https://preview.redd.it/rl6stkkj79ga1.png?width=822&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=1fac8f3ffc6526e2bc4184a27b345b8a454c19d8",0.74,9,0,9,20
+36,wallstreetbets,t3_10th085,Adani: How the billionaire’s empire lost $100bn in days,,0.84,49,0,49,28
+37,wallstreetbets,t3_10tuugq,What happens when the tail gets too big for the dog?,"***Options volume continues to march higher, despite futures liquidity (ES displayed liquidity) consolidating at the low end of its post-COVID range...***
+
+https://preview.redd.it/5iglzo90c9ga1.png?width=585&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=97b0a2c3de3380648a1518f5faa1ee660a08f923
+
+[ES On Screen Liquidity](https://preview.redd.it/x4fuo1k0c9ga1.png?width=578&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=60c3c3c1b7720f2e1cdb346acd8eb93305afd3a2)
+
+***What happens when the tail gets too big for the dog?***
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+https://i.redd.it/61odvey2c9ga1.gif",0.79,8,0,8,10
+38,wallstreetbets,t3_10trgvv,Why does no one talk about $RKLB,"Been pumping hard lately in anticipation of SpaceXs starship launch, If starship launches correctly, spacex plans to retire the falcon 9 and its smaller sat launch rockets so it can do large cargo missions to mars with its new rocket. Rocketlab is the only other real competitor and company to take its place, and actually has a workable rocket that can (and does) launch medium/small payloads to space, not only as a public company but a company in general. Huge gains coming IMO as its only valued at 2.5billion, despite being one of the few American companies that can reach orbit, never mind get their, never mind launching frequently (Rocketlab has the second most launches as a U.S company, first being spacex). Huge things coming in the space race, just thought id give you guys a heads up.
+
+We got a genius Ceo (Peter Beck) who made this company with no billionaire money like Jeff Bezos and Elon Musk, and Richard Branson, however it is absolutely destroying blue origin and virgin orbit/galactic. Its crazy that this is still under the radar on this sub. Like Genius ceo with a small cap rocket company, one that is successful, huge barrier to entry as even Jeff Bezos can't do what he did. In a an upcoming market that is on the verge of explosion with reusable launches. valued at 1/100 of spacex lol. do your own DD, but this companies the real deal.
+
+I just don't get it, they are one of like 2 space companies that can actually launch which has a huge barrier to entry, in a market that is literally fucking going crazy right now and expected to explode, with national attention and missions from mars to sattelties to infrastructure in space, (50% of all sattelties ever launched was done so in last 2 years). I feel like this is EV stocks of 2014",0.71,13,0,13,25
+39,wallstreetbets,t3_10spoyi,"Bought puts on AAPL and calls on F, GOOG and AMZN yesterday, got all 4 wrong",,0.98,1982,0,1982,308
+40,wallstreetbets,t3_10tte8s,"Can Apple, Amazon or Google create a same chatbot as ChatGPT","GhatGPT is an amazing tool no doubt even in the prototype version and they are continuously improving at an incredible rate. But the thing is, all these three giants (Apple, Amazon and Google) have their incredible voice assistances. They do similar job of finding a different requested results on web etc. Apple is already adding new health support features. Google maps might make it more helpful for searches related to geographical regions. And again they probably have more user data from millions of users.
+
+What make it so different from them and how difficult it would be for them to create their own version as they have a lot more resources and data.",0.64,8,0,8,47
+41,wallstreetbets,t3_10tyyw2,Upgrade from Wendy's?,"Turns out Wendy's isn't the only fall back option. There's  a local deli in Las Vegas that will take in the WSBs lost boys. Hourly wage plus tips. Emphasis on the tips, it is Vegas after all.
+
+https://www.wsj.com/articles/the-retreat-of-the-amateur-investors-11675486817?reflink=integratedwebview_share",0.64,3,0,3,4
+42,wallstreetbets,t3_10tng1g,Cramer went crazy when Faber mentioned Coinbase,"Yesterday on Squawk Box, Faber mentioned the huge rally to Cramer. Cramer went on some ridiculous rant about his sweater. What a bully. He’s all mad that he missed the 100% rally since his sell call back on 01/03.",0.72,14,0,14,31
+43,wallstreetbets,t3_10svejw,Me after buying shorts at open and selling at 11 today,,0.97,662,0,662,71
+44,wallstreetbets,t3_10tu213,Could the fed HIKE 50 bps in March..? Here's what Morgan Stanley says would need to happen -&gt;,"***Summary of the Feb 3 MS research note highlighting revisions to Fed policy projections...***
+
+https://preview.redd.it/npol1w2069ga1.png?width=1103&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=a85afa7cd9c4f06924ca0f1adb7256f15032e23f
+
+* The recent payroll data revisions have caused a shift in the baseline forecast for the March FOMC meeting from a pause to a 25bp hike.
+* ***The revisions also raise the probabilities for a wide range of policy outcomes, including an increase in the magnitude of hikes, an extension of hiking, and the possibility of the next move being up after a Fed pause.***
+* ***The updated data shows that if the pace of job gains from January is sustained, a 50bp hike may be firmly on the table for debate.***
+* The FOMC statement shifted the focus from the pace of increases to the extent of increases, and Chair Powell suggested that the March Summary of Economic Projections could include a lower path for rates.
+* The incoming data releases, including jobs and inflation prints, will provide important information on the extent and pace of the Fed's tightening path.
+* ***The February payroll report is expected to show net job gains of 200k, and a repeat of a 500k+ jobs print could lead to a 50bp hike as early as the March meeting.***
+* The labor market may see more resilience, which could extend the tightening cycle.
+* The underlying demand dynamics point to a slowdown in jobs, and the recent job gains are likely to be a one-off and not inflecting upwards.
+
+https://preview.redd.it/zs5m84f069ga1.png?width=1042&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=41c7fb1aa49f4a208ae5dc925750935ba7805e1b
+
+***TLDR -&gt; COULD SEE 50BPS HIKE IN MAR IF NEXT NFP IS JAN REPEAT (MASSIVE BEAT)***",0.64,3,0,3,21
+45,wallstreetbets,t3_10smil3,All of us market up or down 😓,,0.97,1781,0,1781,58
+46,wallstreetbets,t3_10ssdcw,Jay Powell not having a good time.,,0.97,760,0,760,153
+47,wallstreetbets,t3_10sprcp,Elliot Wave ABC Correction Complete. Crash Begins Soon. Get your SPY Puts while you can.,,0.79,1108,0,1108,582
+48,wallstreetbets,t3_10tspbm,Nomura ~ Massive NFP Beat = Rates Higher for Longer?... (FULL REPORT),"# A May pause comes into focus, but significant strengthening in the labor market could push rate cuts back to Q1 2024
+
+**Data Preview**  
+*Consumer sentiment is likely to reflect recession concerns, while the Manheim used vehicle value index should evidence near-term rising prices for used vehicles.*
+
+**US Economic Outlook**  
+With a shallow recession taking hold and inflation gradually easing, we expect the Fed to hike once more in March to 4.75-5.00% before cuts begin Q1 2024.
+
+**Week in a Nutshell**
+
+***Unexpected strength of labor markets may affect highly data-dependent Fed***  
+The Fed delivered a widely expected 25bp rate hike and signaled another 25bp rate hike in March. Powell's press conference also stressed the data-dependency of monetary policy while discussing a wide range of topics. This reflects a dovish shift relative to prior messaging for a “higher for longer” Fed Funds rate. We believe the FOMC is laying the groundwork for a pause; however after unexpected strength in the January employment report, we believe economic conditions will remain too firm for the Fed to cut rates in 2023.We highlight our four key views in response to the meeting and January’s employment report:
+
+1. A March rate hike seems almost certain.
+2. Three more months of softening core inflation will likely motivate a pause in May.
+3. Rate cuts are fully dependent upon incoming data and unexpected resilient of the economy will push the timing of rate cuts to 2024.
+4. The Fed will not push back on easing financial conditions when they reflect softer inflation forecasts.
+
+Overall, we believe the FOMC meeting adds support to our monetary policy outlook of another 25bp rate hike in March, to a terminal rate of 4.75-5.00%. However, after the upside surprise in the January employment report, we revised our economic outlook and now expect a shallower recession of just two negative real GDP growth in Q1 and Q2 this year versus our prior expectation of four quarters of negative real GDP growth spanning the entirety of 2023. Importantly, we now forecast the unemployment rate will not reach5% until Q1 2024, a level of unemployment at which we believe the Fed will start serious consideration of trade-offs between maximum employment and price stability and thus be open to rate cuts. In addition, the resilience of labor markets will likely slow disinflation of non-housing core service inflation, which is a key metric for assessing the risk of inflation rebounding for the Fed. Taking all into account, we now believe the Fed will hold at terminal until March 2024 (Fig. 1 and Fig. 2 ).
+
+https://preview.redd.it/e326d2lrv8ga1.png?width=1012&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=1d0e6be4406a3a07ed0e099585a69f0e91186bbe
+
+***January employment report shows a very different picture of labor markets***  
+We believe the January employment report changed the landscape of labor markets, increasing the possibility of a soft-landing scenario where the economy avoids a severe contraction while inflation/wage growth continues to moderate. Nonfarm payrolls (NFP)jumped strongly by 517k, exceeding expectations (Nomura: 195k Consensus: 188k). Annual revisions also boosted the pace of monthly job gains from June through December, though April and May 2022 were revised lower. The revised monthly profile of NFP suggests labor markets were much stronger in late 2022 than previously reported. The strength in January employment was widespread across industries. This includes temporary help service employment, widely considered as a leading indicator for the broader trend of labor markets, which resumed increasing by 26k in January after having declined in November and December. Aggregate working hours, a gauge of general economic activity, also rebounded strongly after back-to-back monthly declines. Household employment, an alternative measure of job growth, continued to increase strongly by 894k, increasing even after excluding the impact of annual revisions. The unemployment rate unexpectedly inched down to 3.4% from 3.5%. Overall, details of the jobs report pose an upside risk to our economic outlook and reduce the likelihood of a severe recession. However, average hourly earnings (AHE) showed a trend-like increase of 0.3%, reducing y-o-y growth further to 4.4% from 4.8% in December. That suggested the recent decline in short-term inflation expectations is easing wage growth, despite strong labor markets. The combination of robust job growth and moderating wage growth remains consistent with our view that the Fed is still likely to pause rate hikes in May, while monetary easing in the second half is less likely due to the lesser extent of trade-offs between maximum employment and price stability.
+
+https://preview.redd.it/ezycmezqv8ga1.png?width=1022&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=2ea05222a3e2132e6439867fbc580a259723be56
+
+***Upcoming data and events***  
+The coming week is uncharacteristically quiet in terms of incoming data, but some interesting Fed speak is scheduled. Chair Powell is scheduled to speak at noon EST on 7February, while on 8 February NY Fed President Williams will speak at 9:15am, Governor Cook will take part in a moderated discussion at 9:30am, Atlanta Fed President Bostic will speak at a student event at 10am, Minneapolis Fed President Kashkari will speak at the Boston Economic Club at 12:30, and Governor Waller will discuss the economic outlook at1:45. At the most recent FOMC press conference, Powell highlighted data-dependency; key to monitor will be how he changed his monetary policy outlook after the January employment report. In addition, at his post-FOMC press conference, Chair Powell said the Committee intensively discussed the economic criterion for a pause on rate hikes. Thus, some FOMC participants could elaborate on that topic.
+
+In terms of incoming data, we will have the January final Manheim used vehicle price index on Tuesday. We expect used vehicle prices to rise in the final reading as in the preliminary reading covering the first fifteen days of the month, though we would consider this to be a speed bump in the disinflation trend. Other than that, we will have the Q4senior loan officer opinion survey (SLOOS), which provides banks’ lending standards for a wide variety of loans. In light of the recent easing of financial conditions in financial markets and the Q3 SLOOS, which suggested lending standards were tightening as Fed tightening proceeded, further information on how lending is evolving is of particular importance for the trajectory of spending and fixed investment. Consumer credit will also provide an interesting signal on the borrowing-related outlook for spending, and we expect a deceleration in line with rising savings. Last, the preliminary reading of the University of Michigan survey will be interesting to evaluate to see how multiple conflicting forces, including lower inflation, recession concerns, higher stock prices and higher gasoline prices, will collectively affect consumer sentiment. Also, it’s important to monitor the survey’s measure of short-term inflation expectations, as this may signal whether wage growth is likely to continue to decline in February (Fig. 5 ).
+
+https://preview.redd.it/7skmdjipv8ga1.png?width=673&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=287de77b92ba9831da4283296b122bc3d0b66b23
+
+***This week’s data in review***  
+In addition to the FOMC meeting and Friday payrolls data, this week provided some key insights on the labor market through JOLTS, the Employment Cost Index (ECI) and Conference Board’s consumer confidence, confirming that the labor market remained strong but wage inflation continued to moderate, while the ISM manufacturing index provided further evidence of contraction in the sector.
+
+The ECI, the Fed’s preferred wage inflation measure, showed wage inflation cooling more than expected in Q4 2022, joining a variety of other wage inflation measures showing reducing wage inflation. Excluding benefits and government employment, the y-o-y change in the ECI’s private wages and salaries continued to decelerate to +5.1% in Q4 from +5.2% inQ3. Excluding also volatile inventive paid occupations, private wages and salaries moderated more noticeably by four-tenths to +5.2% y-o-y in Q4 from +5.6% in Q3. We highlight that the ECI wage inflation in service industries moderated more sharply than in the goods-producing industries. This downside surprise in the ECI and the concentration of this weakness in industries where prices are particularly sensitive to wages implies downward pressure on core services ex-shelter inflation. In terms of wage growth, ADP’sy-o-y wage growth measure, which also adjusts for the impact from compositional changes of the labor force, held level at 7.3% for job stayers. However, this follows three consecutive months of decreases for this large subset of the workforce, and we do not believe it reflects a notable shifting of the trend of wage disinflation.
+
+JOLTS showed job openings increasing strongly to 11.01mn in December from 10.44mnin November, providing evidence of strength in the labor market over the month. The V-U ratio – job openings per unemployed worker – jumped to 1.92 in December from 1.74 in November, much higher than the pre-pandemic level of 1.2. However, job openings could be overly optimistic when signaling the strength of labor markets, as businesses might have continued to post openings despite putting a pause on hiring new employees. That being said, gross hiring and quits remained stable in recent months, suggesting that labor markets have not eased materially.
+
+Consumer confidence weakened in January (-1.2 to 107.1), signaling recession concerns may be weighing on the consumer as personal spending falters and savings rates tick up, in line with our view that support from excess savings is waning. The report showed households remaining cautious about the near-term economic outlook, with the share of households expecting more jobs and better business conditions both deteriorating in January. However, the labor differential (the difference in the share of households reporting jobs are “plentiful” minus “hard to get) ticked up (+2.4 to 36.9), suggesting labor conditions remain strong even as activity slows.
+
+ISM manufacturing surprised slightly to the downside in January falling 1.0pp to 47.4,showing contraction for a third consecutive month, in line with our view the manufacturing sector has been in a recession for some time. The employment sub-index ticked down (-0.8 to 50.6)towards entering contraction, providing some early evidence of cool labor markets, while new orders fell deeper into contraction territory (-2.7pp to 42.5), suggesting the outlook for the sector will remain soft for some time.
+
+ISM services also surprised to the upside in January, rising 6.0pp to 55.2 (Nomura 49.5,Consensus 50.5), roughly in line with levels seen in November and October before the sharp fall into contraction territory in December. Large increases in new orders (+15.2ppto 60.4) and business activity (+6.9pp to also 60.4) show a sharp rebound in demand, while employment edged up 0.6pp to 50, in line with employment holding level in the sector. Supplier deliveries also edged up (+1.5pp) to 50, also signaling delivery timeliness was level from the prior month, sign of firming demand after flagging demand in December.
+
+https://preview.redd.it/fgs4ybsnv8ga1.png?width=1063&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=de7996fb27987e939187ad16e5ddba5495eae1c7
+
+*Consumer sentiment is likely to reflect recession concerns, while the Manheim used vehicle value index should evidence near-term rising prices for used vehicles.*
+
+***Trade balance (Tuesday):*** We forecast the December trade deficit to come in at$67.8bn, based on the advance nominal goods figures and our expectations for net trade-in services. This represents some bounce-back following the surprisingly low November trade deficit of $61.5bn. That said, the underlying trend has been a reducing trade deficit as softening domestic demand weakens imports relatively more than exports. However, exports are likely to remain relatively resilient given China’s reopening and an improving economic outlook for Europe, and we expect this dynamic to continue.
+
+***Manheim used vehicle value index (Tuesday):*** The preliminary January Manheim wholesale used vehicle prices rose 1.5% m-o-m based on the first 15 days of the month. We expect the full-month final reading to remain positive m-o-m. However, we expect this increase to be a speed bump in the medium-term disinflation trend. Lending standards for auto loans continued to tighten and interest rates for car loans remained high, which should weigh on demand for vehicles. Moreover, dealers’ margins (as determined by price differences between wholesale and retail sales) will likely be squeezed, keeping CPI’s used vehicle prices declining, even if wholesale prices rebound temporarily.
+
+***Consumer credit (Tuesday):*** Data from the Fed on weekly bank lending suggest December consumer credit decelerated from November’s consumer credit growth of$28.0bn. That said, we would note this signal should be interpreted with caution, as Fed data suggested credit growth was well below actual consumer credit growth in November. This signal suggests a risk that slowing December credit per Fed bank lending data may once again undershoot actual consumer credit growth. However, with the personal savings rate having risen 0.5pp in December, and evidence many consumers are approaching credit constraints while lending standards tighten, we think a deceleration in December consumer credit is likely.
+
+***Jobless claims (Thursday):*** Jobless claims remained persistent over January, however we expect slowing economic activity will soon begin to soften claims. It is possible the backlog of open positions, as evidenced by the V-U ratio rising to 1.92 in December, is keeping claims low as many workers affected by widely covered headcount reductions are reportedly finding new employment before registering for unemployment benefits. However, as the labor market continues to cool, this effect that could be reducing claims should dissipate, and claims are likely to begin to better reflect slowing economic conditions.
+
+***University of Michigan consumer sentiment (Friday):*** We expect the University of Michigan consumer sentiment index to remain relatively unchanged in February following January’s upside surprise. Recession concerns appear to be weighing on consumers as excess savings become depleted, as evidenced by the conference board’s weak January consumer confidence index and the uptick in personal savings. This is likely to weigh on sentiment through the interview period, which commences only one day after the end of the January consumer confidence survey period. By contrast, resilient labor markets and higher stock prices could offset the negative impact from recession concerns. Continued media coverage of easing inflation could add some downward pressure to inflation expectations, which remains one of our focal points to monitor for any unexpected resurgence after the recent downward trend.
+
+***US budget (Friday):*** Data from the Daily Treasury statement suggest a budget deficit of around $42bn in January, weakening from a surplus of $119bn in January 2022.
+
+https://preview.redd.it/n6jh9i3mv8ga1.png?width=1018&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=9a71d7dd8f7b9235589a10ac944f4edeaada016e
+
+https://preview.redd.it/ppm45qkkv8ga1.png?width=1063&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=ba525de01e291b9f6b12c045f48081012cf5c106
+
+# US Economic Outlook
+
+*With a shallow recession taking hold and inflation gradually easing, we expect the Fed to hike once more in March to 4.75-5.00% before cuts begin March 2024*
+
+***Economic activity:*** Growth momentum is easing despite strength in the labor market, and we expect a recession started in December 2022. Easing financial conditions and a strong labor market are likely to add support to flagging economic activity. As the housing market recession deepens , and an early industrial sector downturn emerges , retail sales and industrial production are flagging , and real income and spending are likely to follow, despite support from labor markets. The pace of contraction may be cushioned by strong balance sheets we expect a shallow recession, followed by a gradual recovery due to alack of both monetary and fiscal policy support. High uncertainty and interest rates will likely continue to weigh on both residential and nonresidential fixed investment. Despite labor market strength , we expect job losses to start in Q2 2023, with an end-2024unemployment rate around 5.3%.
+
+***Inflation:*** Recent data suggest inflationary pressures are gradually faltering . The speed of core goods price declines accelerated and key non-rent core service inflation continued to slow. In addition, rent-related components will likely start to moderate in early 2023based on leading private rent data. Moreover, the expected downturn is beginning to weigh on non-housing core service inflation which is strongly linked to labor markets. Core PCE inflation, the Fed’s preferred metric, will likely decelerate toward the Fed’s 2%target on a y-o-y basis by end-2024
+
+***Policy:*** As still-elevated monthly inflation moderates gradually, and after 450bp of tightening, Fed participants are likely to hike once more in March to a 4.75-5.00%terminal rate. A pause is likely until the unemployment rate increases to a point where the Fed reconsiders the tradeoff between inflation risks and job growth, and normalizing core services ex-shelter inflation suggests the risk of inflation rebounding decreases. At that point, we believe the Fed will cut rates by 25bp/meeting, starting in March 2024. We expect the Fed to end balance sheet runoff after March 2024 to avoid working at cross purposes with rate cuts.
+
+***Risks:*** We see risks as balanced. Inflation could slow earlier than expected, but upside risks include more persistent than expected core-services ex-shelter inflation and renewed supply chain disruptions. Fed tightening could weigh on growth more heavily than we assume, but the labor market remaining resilient despite wage inflation moderating poses upside risk;.
+
+https://preview.redd.it/a6wvqkyiv8ga1.png?width=1002&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=5ed0d0c3a299def5424dac20d13d16307be1cc24
+
+https://preview.redd.it/8v01qsmiv8ga1.png?width=1018&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=9a7c23341587ac3da19bd758b17961e6afa423de
+
+https://preview.redd.it/n9rntz7iv8ga1.png?width=1010&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=cc53d2be1d938469f6af2284da5eb31337b52d8c
+
+***Check back for more..***",0.73,5,0,5,1
+49,wallstreetbets,t3_10tqpuh,What can I say? I am hodling till the next bull market (maybe it is here?),"Hello everyone, this is my first post in WSB, so I thought it had to be legendary.
+
+I started trading back in 2016 with penny stocks (never doing this again, lol), so my journey began from buying pink sheet stocks to losing all my capital. So I stopped trading for a while. Fast forward 2020 crash, they cut my salary by 20%, so I decided to start trading again and took a Udemy trading course to start the right way. Then I decided to YOLO all my capital into airline companies like $AAL (thinking, when will we stop flying?), made 200-300% with my money, and started trading more seriously. I fell in love with trading so much that my emotions took over, and I no longer had management risk control. So I am holding a bag now and will HODL till my luck can change. Lesson learned for sure. I started averaging down the most significant position ($WISH), so let's see what the feature has for me.
+
+Safe trading, everyone :P.
+
+https://preview.redd.it/39t90141h8ga1.png?width=2032&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=4a7d7fd90e265f40dad43c0419907a8f41c32194",0.6,6,0,6,18
+50,wallstreetbets,t3_10tfs7k,Interesting morning (2/3 exp 🥵) - Options are not your friend,,0.78,25,0,25,17
+51,wallstreetbets,t3_10u5acz,Someone sent me this from some motivational instagram thing...,,1.0,1,0,1,2
+52,wallstreetbets,t3_10syuzt,"Final 700 --&gt; 27K, is that enough to take the screenshot??",,0.94,272,0,272,57
+53,wallstreetbets,t3_10skj5q,I‘m sure we can push this to 100 and beyond if we only belieeeeeeevee,,0.97,1696,0,1696,184
+54,wallstreetbets,t3_10t31gt,Hope Valair didn't cash out at a loss. Freeport is about to open!,,0.93,132,0,132,20
+55,wallstreetbets,t3_10u3gig,All in PYPL - #1 Payment Processor Worldwide - hugely undervalued,,0.56,1,0,1,5
+56,wallstreetbets,t3_10t2dty,“Retail Trading Just Hit An All-Time High.“ -Forbes,"*“The percentage of total trading volume coming from retail investors was about 23% from January 25 to February 1…”*
+
+https://www.forbes.com/sites/dereksaul/2023/02/03/retail-trading-just-hit-an-all-time-high-heres-what-stocks-are-the-most-popular
+
+*“Retail trading hit an all-time high this year, according to JPMorgan data, as non-institutional market participation enjoys a renaissance amid a favorable start to 2023 for equities, even surpassing 2021’s high-profile, meme-driven surge in day trading.”*",0.94,127,0,127,68
+57,wallstreetbets,t3_10sthyi,Finally did it,,0.96,399,0,399,81
+58,wallstreetbets,t3_10skq5t,Happy Tax Season You Animals.,,0.98,1182,0,1182,63
+59,wallstreetbets,t3_10suguu,Poor Jeffrey,,0.97,315,0,315,49
+60,wallstreetbets,t3_10s8u6x,Bring back Jeffrey,,0.96,10681,0,10681,236
+61,wallstreetbets,t3_10tlnov,Need to find a layman's description of which interest rates affect which markets.,"With the announcement of recent Fed Rate increases  I'm looking for an easy understanding of which entities directly influence Mortgage rates, Credit Card interest rates and any other interest rates that the Fed Reserve of Federal Government controls.",0.7,5,0,5,18
+62,wallstreetbets,t3_10tyepn,Not the most knowledgeable about stock trading and am looking for some discussion about stocks,"Particularly which stocks you see performing well during the next year, and those that likely won’t.
+
+Mostly due to my father really wanting to get in on the markets and me not being able to get him to caution, I’m looking for those that aren’t high risk, and looking for some experience in terms of trading",0.43,0,0,0,21
+63,wallstreetbets,t3_10skdb8,3.4% vs 3.5% Unemployment. 517K vs 187K New jobs. 4.4% vs 4.3% YoY Wages.,"Also important today is the ISM Services Report.
+Mainly people will be looking for Prices Paid (inflation proxy).
+
+Yikes 517,000 new jobs........
+Citibank interestingly got it nearly right - they predicted 300K or so new jobs.
+
+Average weekly hours went UP to 34.7 hours per week vs 34.3 hours expected.
+
+Earnings +0.3% MoM as expected, but due to rounding 4.4% vs 4.3%.
+
+Wages for Feb/March might be much higher than expected - Walmart is set to increase wages I think March 2 by 3% for around 340K people. Delta jacked up wages by 34%, Uni of California by 16% and some other people jacking up wages by double digits. This could push up Average Hourly Wages by a lot in Feb / March. https://www.reuters.com/business/retail-consumer/walmart-raise-wages-us-workers-2023-01-24/
+
+Leisure and Hospitaility got 128,000 new jobs.
+Food services got 99,000 new jobs.
+Health care + 58,000 new jobs.
+Retail +30,000 new jobs.
+
+On market action - green hey? Bond market is the only market that's reacting correctly down -4% ish for 10 year, and 10 year TIPS down -6.87%.
+
+Everything else seems like dip buying to me - a BlackRock analyst said how dip buyers are buying now due to FOMO from the January Rally.",0.92,864,0,864,679
+64,wallstreetbets,t3_10t113r,Some old loss porn I was too pissed to post. TQQQ puts. Got greedy and held them too long. Dont be me.,,0.87,83,0,83,34
+65,wallstreetbets,t3_10sf791,META Announced a $40 Billion Share Buyback Program For This Year - But They Only Have $41.77 Billion Cash On Hand 🤔?,,0.93,1905,0,1905,417
+66,wallstreetbets,t3_10sp1o3,Sold my 18k shares of RDFN yesterday,,0.95,371,0,371,40
+67,wallstreetbets,t3_10sxty9,I will be retiring from Wendy ❤️ thank you Bears.,,0.93,111,0,111,42
+68,wallstreetbets,t3_10t0myk,SPY makes a Golden Cross- BULLISH!,,0.79,70,0,70,76
+69,wallstreetbets,t3_10t0ywb,"When you get the usual Monday morning rush of work calls and put away your personal phone thinking that you hit ""Place Order"" 🤣🤣😂😭😂😭",,0.88,59,0,59,26
+70,wallstreetbets,t3_10tg4bc,I told you so...,,0.6,7,0,7,19
+71,wallstreetbets,t3_10szj0s,Rogue Trader Bets $80 Million Fed Will Start Slashing Rates By Year End | OilPrice.com,,0.86,61,0,61,39
+72,wallstreetbets,t3_10suqyz,Breaking press conference: Powell speaks.,,0.92,118,0,118,12
+73,wallstreetbets,t3_10so8pt,Make it make sense dammit,,0.89,223,0,223,208
+74,wallstreetbets,t3_10sm6j9,Earnings result 4/4. Leverage Short AMZN - $1.4 MILLION AUD ($990k USD position),,0.96,259,0,259,78
+75,wallstreetbets,t3_10syxrd,"1.5k to 16.2k from tsla, amazon &amp; Apple calls (current position)",,0.86,47,0,47,34
+76,wallstreetbets,t3_10shd58,No title needed(not even this one) or that one... Or the fact that I lost all my money .,,0.96,398,0,398,34
+77,wallstreetbets,t3_10spep1,"Swipe right, tsla calls, SoFi calls, meta calls",,0.93,102,0,102,20
+78,wallstreetbets,t3_10swguf,Bulls or bears… whos really in control here? 2-3-23 SPY/ ES Futures and Tesla Weekly Market Recap and Analysis,"There is one thing that is very clear about this market right now. It has not fully accepted the totality of events and data that has been presented to it. Lets review just how unbullievable this market was this week. 
+
+We saw Meta post a 20% miss on earnings (which is huge!) and they rallied 30% intraday to put in one of their biggest days in 10 years… 
+
+We saw JPOW himself stand up there and tell the market to their faces there will be a COUPLE more rate hikes, unemployment is far too low and the labor market is far too strong, AND that he will NOT be pausing anytime soon… The market proceeded to rally almost $10 off that and have one of its biggest green opens in a while. 
+
+We watched three of the biggest companies out there and holdings in SPY all post misses on earnings the SAME night… and the next day markets RALLY back to green… And Apple who has posted one of its worst quarters in a VERY long time closes a green day after a huge earnings miss… 
+
+We also watched markets received its 10th upside surprise on nonfarm payroll AND print its lowest unemployment rates in a year and markets decided to rally $6 at the market open off that news… 
+
+We have also watched now the second ay in the row where SPY/ VIX move together instead of against eachother… At open today despite a huge -1.2% red open on SPY we actually had seen a RED VIX. And today we are closing out a red VIX and a red SPY. 
+
+This is probably the most I have ever seen markets detached from reality and failing to properly digest information. 
+
+We have some interesting things happening next week too. 
+
+&amp;#x200B;
+
+https://preview.redd.it/4mn0x1tto1ga1.png?width=947&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=30885b2d8db9327363bf5b8a772654314b483ff7
+
+JPOW himself will be speaking on Tuesday. This is starting to give off some Jackson hole vibes. The market clearly did not hear anything that JPOW said on Wednesday and I would be very surprised to see him not attempt to make the market listen more and to re-iterate the bearishness of the fed. 
+
+&amp;#x200B;
+
+https://preview.redd.it/ck8r3w8uo1ga1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=e4df385ec29925d7983eec169744cfbf971f6213
+
+The Fear and greed index at one point today hit 80. We are at levels of extreme greed we have not seen since November of 2021 (yes the ATH). 
+
+Next week is also pre-CPI week. There is a lot riding on CPI and we could absolutely see our first true rebound in February. Next week will be very interesting to watch with JPOW Tuesday and CPI consensus hopefully being released EOW. 
+
+&amp;#x200B;
+
+https://preview.redd.it/1kxvemmuo1ga1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=3494a62d51f22537bf55cd8f79ab007bf84fae11
+
+The question everyone wants the answer to is… Are we bullish or Are we bearish? Lets talk about it… 
+
+As you can see here we are in a very clear black bull channel that we have officially been trading in since December 28th (yes this now a 5 week long bull channel). 
+
+We have possibly seen a peak here and now because of the last two days of price action has formed a very nice breakout triangle within this bull channel. What that means is IF we were to retake that blue resistance line then there is a high probability (Assuming we held the black bull support) that we will push higher from here. However, there is a high probability if we lose this bull channels support that we are in for quite the sell off. 
+
+There is a very large untouched area from 406.5 to 410.9 that I have my eye on. We could come as low as 407.3 Monday and still be in the bull channel. However, we can rise as high as 414.9 and still be in the breakout triangles resistance. 
+
+Those should be our key pivot areas. My current bias is that markets have not properly digested the reality of earnings, recession, and everything JPOW said. I forsee a bigger sell off. However, if we come down to 405.3 to 406.5 support area and were to hold that (much like when we retested 390 support area) then I would be looking for a longer play here. 
+
+If markets can survive Tuesday without a major sell off I do think there is a play for a larger run up into CPI on the 14th. 
+
+One thing I did highlight here is the January 30th support bounce off the daily 8ema. If spy was to open green Monday or even slight red but maintain and close over todays closing price we could see a double bottom support bounce form which would almost certainly lead to further upside. 
+
+&amp;#x200B;
+
+https://preview.redd.it/vucg3w9vo1ga1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=7319dd44bd5547f767398d20f0a60927cd425040
+
+Now taking a look at the weekly chart here I mentioned that 408.8 is a major pivot area. I called out this red channel of 375.6 to 408.8 back in December 2022 and said that the majority of our trading is likely to happen between that with 427.5 and 256.9 being our extremes. However, if this momentum was to continue up we actually could attempt baring no major sell offs to establish a higher channel. The next major upside range would be 427.5 to 455. Now I am not saying we reach there its just something to keep in the back of our minds. 
+
+The higher we are over 408.8 and closer we are to 427.5 the more I like 30-60dte puts. 
+
+That 5 week long channel I mentioned earlier is actually a 6 week long channel when you look at the weekly here. 
+
+Key weekly channel support is 406.2 (remember how important that level is?) and key weekly channel resistance is 425. Those are the two biggest areas to watch. 
+
+Key SPY Weekly Support- 408.9 -&gt; 398.8 -&gt; 390.1
+
+Key SPY Weekly Resistance- 417.4 -&gt; 427.5
+
+&amp;#x200B;
+
+https://preview.redd.it/uabpncpvo1ga1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=2f8099a3bb7efe6a8d262c23552484d5fd7f1ebd
+
+Taking a look here at futures one of the biggest reasons I suspect us to have a retracement Monday is because of that black channel. As you can see Futes is in a blue bull channel much like we saw on SPY daily. However, futures is in a very clear black “extreme” bull channel that started back on January 26th. 
+
+In order to hold that support we have to open over 4175 (which is about 0.72% from futures current 4145 level). If they do not open over that level then that will lead to a further retracement. However, as I mentioned on SPY January 30th we saw a bigger retracement like this that double bottomed and then led to a even further bounce up. 
+
+One thing to watch here is that while we clearly rejected that 4193 resistance today, we are holding 4145. There is absolutely a case that futures makes a 4145 double bottom and pushes higher Monday. 
+
+However this is where we have to weigh TA strength. Is there a stronger case for 4145 double bottom and pop or is there a stronger case that this was the 2 week extreme bull channel support break and we end up with the stronger retrace to gather support. In essence I would support the retrace when we add in spy and the outside news/ economical factors. 
+
+&amp;#x200B;
+
+https://preview.redd.it/4otdxaawo1ga1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=2d5710fc96a8d6132cbc2f3dbeff4ade1f36e8e4
+
+Taking a look at futures here on the weekly the bull channel is actually almost 7 weeks long… That means for the last 7 weeks we have done nothing but rise. 
+
+We did confirm support at 4075 and confirm support at 4095 which is very bullish for next week. However, we failed to touch 4220 resistance and we are rejecting and closing at 4145 resistance which as you see has been a major level. 
+
+The black bull channels support is at 4060 and resistance is at 4260. Those are our two major levels to watch. 
+
+Key Futures Weekly Support- 4145 -&gt; 4095 -&gt; 4020
+
+Key Futures Weekly Resistance- 4220 -&gt; 4280
+
+&amp;#x200B;
+
+https://preview.redd.it/p4vihuqwo1ga1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=72dcde748e92314ab16d20944f236af9fba30512
+
+The most incredible thing has got to be tesla.. Since its low on January 6th to todays HOD we have seen Tesla recover an impressive 96%!
+
+Tesla has now closed 4 green days in a row and incredibly.. 10 out of the last 11 trading days on Tesla have been green days… 
+
+The question is have we finally seen a top on Tesla or not?
+
+The case for this inverted hammer candle to be the top is very convincing. However we have to recognize that support bounce off the daily 100ema also at 183.7. But we equally have to recognize the hard rejection off 197 two days in a row which is a major pivot point and resistance on Tesla. 
+
+That blue bull channel support remains at 187.6 for Monday. 
+
+&amp;#x200B;
+
+https://preview.redd.it/92f4y28xo1ga1.png?width=975&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=c26f4f320eb59fcd4e13d01c777b0a7dc2274f5c
+
+Taking a look at Tesla weekly here you can see that there is the equally strong blue bull channel. The biggest thing to recognize this week is the weekly 8ema support bounce and closure over the weekly 200ema. However, as I have mentioned before and as you can see back in October that the 200ema is highly unlikely to break the first run through. We actually are seeing a pretty hard rejection off that 190 resistance that was established back in December. 
+
+One of the biggest levels I wanted to watch this week and called out was $200 on tesla and 195.2. 195.2 is the weekly resistance and is a major pivot point. Failure to close over that and have an incredible 4 green weeks in a row we should be looking for a small pullback here on tesla finally. 
+
+Key Tesla Weekly Support- 177.8 -&gt; 163.8 -&gt; 149.9
+
+Key Tesla Weekly Resistance- 190.6 -&gt; 195.6 -&gt; 206.2 -&gt; 228.3
+
+&amp;#x200B;
+
+https://preview.redd.it/g7dayndyo1ga1.png?width=607&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=0703e6b8f7968b91fc8153fb09a5d01c2051e7de
+
+The last piece of this puzzle is the VIX… We have been seeing finally a ton of movement on the VIX. We have been getting these extremely large movements up on the VIX the last two days now. 
+
+Something intriguing is that the VIX despite closing red today closed back over that key 18.3 area. There is a very real case that yesterdays 17.06 bounce could have been the relative low and that we could look for VIX to push back to 20. 
+
+With the VIX this low and the FG index at extreme greed levels and SPY pushing some of its more upper limits that we have seen in many months… realistically we should be looking for a local bottom on VIX and top on SPY. 
+
+Despite what price action wants us to believe there really is not enough good news happening in the market and world right now to warrant the VIX to continue to make new lows and for SPY to continue to make new highs. 
+
+**Weekly log-**
+
+&amp;#x200B;
+
+https://preview.redd.it/jowd2ttyo1ga1.png?width=911&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=bd475cf594e18514d4ea3028be339631a5ef8543
+
+Unfortunately I did put in a red week despite closing today out nice and green. 
+
+When I reflect on my weekly trading I always ask myself despite P/L did I trade well? The answer is yes I did. I end this week red mostly because of the 0dte swing I did post FOMC expecting a red open. That play right there put me in red for the week. Yes I did close a longer 22dte put on tesla put at -50% but even with that I should and would have closed the week red. 
+
+Looking at my actual level to level trades I had high success and traded very well. I actually maintained a 100% win rate on Monday and Tuesday with my level to level trades. 
+
+The biggest thing that I am happy with this week is that I followed my rules. I didn’t chase trends and I didn’t let the market trap me into removing stop losses or taking risky plays. The biggest thing a trader can do is maintain their discipline.",0.91,40,0,40,32
+79,wallstreetbets,t3_10t2kda,Trading Tesla,"**TSLA** will never see another low like end of December.  There are too many Fund Managers. Pension Funds etc... that are all heavily invested in TSLA. Who here is charting Tesla? Anyone looking at Charts with specific indicators that can post price expectation commentary/analysis. I'm tired of losses and looking to add some sophistication to buying and selling and would appreciate some assistance. I've been thinking of RSI14, MACD daily 26,12,9 and EMA 20/50/200 all on a 6 month daily. Am I along the right lines to have confirmations of buy and sell signals? Please advise. Thx",0.69,17,0,17,42
+80,wallstreetbets,t3_10sw3h8,"$1,9k to $15k in 5 weeks (Don't mind the unrealized -40% :D )",,0.86,38,0,38,16
+81,wallstreetbets,t3_10t3819,The space ambassador,"
+Some of you might know him as 'the everyday astronaut' on YouTube aka Tim Dodd.
+
+He did a podcast recently with Mr Lex Friedman. And they spoke about spaceX and some other space related stuff. You can find it on YouTube.
+
+A lot of upcoming and existing space companies have given Tim tours of their facilities and what not, particularly space X, he got like multiple hr interviews with Elon.
+
+Anyways, near the end of the podcast with lex, they spoke about SpaceX competition. And he mentions one in particular that he believes is way above the rest and can compete with SpaceX. 
+
+Rockets made in the lab - RKLB
+
+
+Whether he's personally invested remains to be heard, but the ambassador has spoken.
+
+RKLB to the moooon....
+
+
+
+May 2023, 7$ strike",0.85,14,0,14,8
+82,wallstreetbets,t3_10t5enk,QQQ Fibonacci Retracement - Continuation or Retracement?,"Now that we are done with those most important earnings week of Q1 and have a 0.25% increase with a seemingly less hawkish Fed, where do you see the QQQ's going from here?  From peak to trough, the recent YTD rally tagged the 0.618 retracement with the next stop being either the 0.5 retracement ($330ish) or the start of the next leg lower.  Currently sitting at 76 with extreme greed on the oscillator below.
+
+&amp;#x200B;
+
+https://preview.redd.it/zkqdvfjmp3ga1.png?width=1791&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=958f005e11a8515b1358348eb7aac7eb68050347
+
+&amp;#x200B;
+
+https://preview.redd.it/u3mw7e2wn3ga1.png?width=1276&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=3055b980da071c2a77b189d312b29cdea5bfa964",0.76,9,0,9,8
+83,wallstreetbets,t3_10t00eb,Market predictions,"What do you all think will happen to the market on Monday? I’m currently in some spy puts and I personally think the market will plummet on Monday, but I’m curious what you all have to say. Give a monkey a typewriter, he will eventually predict something",0.76,19,0,19,89
+84,wallstreetbets,t3_10t1wyq,"Oil, Gas, and Mining Workers Are in Short Supply. What It Means for Those Industries. — Barron's",,0.8,14,0,14,13
+85,wallstreetbets,t3_10sjl9b,Bears gonna capitulate on open. Market invalidated yesterdays drop. Jobs prolly leaked bullish,,0.78,172,0,172,166
+86,wallstreetbets,t3_10shnj0,"Daily Discussion Thread for February 03, 2023","**Watch WallStreetBets discuss markets on[](https://twitter.com/Official_WSB) [YouTube](https://www.youtube.com/channel/UCRPCE1kzX-JHzcAHfPSs87Q?sub_confirmation=1)**
+
+Follow [Twitter](https://twitter.com/Official_WSB), join [Discord](https://discord.gg/wsbverse), play [ban bets](https://www.reddit.com/r/wallstreetbets/wiki/banbets)! 
+
+Check out our [Earnings Thread](https://www.reddit.com/r/wallstreetbets/comments/10n18u1/most_anticipated_earnings_for_the_week_of_jan) and [Rules](https://www.reddit.com/r/wallstreetbets/wiki/contentguide).",0.87,230,0,230,15840
+87,wallstreetbets,t3_10swxcg,I completely and utterly fucked up. Done for the month,Managed to lose it all on two earnings play and somehow convinced myself not to lock in a 7k profit before market closes due to greed. So anyways see you guys in the casino next month pce,0.82,25,0,25,27
+88,wallstreetbets,t3_10sxmab,Will my puts print next week?,,0.81,21,0,21,48
+89,wallstreetbets,t3_10rs37l,"META Yolo, up $75k so far, gunna keep holding.",,0.92,8399,0,8399,1419
+90,wallstreetbets,t3_10sodwi,How is the job report bullish at all?,"If you missed the report check this [post](https://www.reddit.com/r/wallstreetbets/comments/10skdb8/34_vs_35_unemployment_517k_vs_187k_new_jobs_44_vs/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf) out. 
+
+So we mostly “added” jobs in ~~food~~ Wendy’s, healthcare, and retail. 
+
+How is this bullish. With all the tech layoffs are we just seeing people go for shitty jobs to get a check? Are hundreds of thousands of people lining up to go work at Wendy’s? 
+
+All I see is layoffs and people having trouble finding work. Are the only jobs available the cashier jobs at Wendy’s and the AMC theater worker? 
+
+Are we all doomed to be customer service employees in the future?",0.74,61,0,61,151
+91,wallstreetbets,t3_10sxzm4,"Three recent AI stocks (BigBear AI, Sound Hound AI, and C3.AI)","As title says, these three have exploded over the past week and month. They look like good cheap option plays, like the squeeze on Carvana. Any thoughts or has anyone made plays on these ones?",0.77,17,0,17,29
+92,wallstreetbets,t3_10t1cbi,The true wall street bets is investing on margin through a business.,"1. Start a business selling 2000 watermelons a year just as the economy starts to boom. 
+2. Open up 5 locations to sell watermelons from while the economy is booming using business loans from the bank. 
+3. hold the watermelon business as it begins to lose money as the economy improves the real estate values will rise. Use the new increased value of your real-estate to refinance up to your tits.
+4. throw half the  refinance money into 6-12 month spy calls. If the spy calls fail that means the government will print billions lowering the effective debt you owe and stimulate the economy. now your gonna wanna throw all your remaining money into spy calls and shut down your watermelon business. If you fail again I'm sorry your all out of tricks your bullshit watermelon biz is going under. luckily you can file for business bankruptcy and keep all your assets. This only works one time or every 7 years cause your biz credit will be fucked. 
+5.   If you succeed however you can sell your real-estate pay back the loan and essentially liquidate your company.  sell it all off and start a new business. Your business credit is even better now. You had a loan several loans in fact and paid them all back on time. So your gonna wanna wait until the housing market to crash again and double the business this time. You might even make money on it this time around. In the meantime waiting for another financial downturn you got a sweet ass resume that says you started a business built it up then liquidated it for a profit.   
+
+btw i looked it up a LLC can buy stocks legally.",0.68,11,0,11,24
+93,wallstreetbets,t3_10sq57g,I finally have gains worth screenshotting!!,,0.86,40,0,40,11
+94,wallstreetbets,t3_10smbd5,Permabears thinking good but bad economic data was going to stop a year long anticipated tech really. Moon Wen?,,0.83,75,0,75,18
+95,wallstreetbets,t3_10rslo8,Which one of you gave him advice?,,0.99,5073,0,5073,121
+96,wallstreetbets,t3_10s8n92,Yahoo finance comment section beefs are legendary,,0.95,595,0,595,41
+97,wallstreetbets,t3_10sg972,No recession proof?,,0.94,158,0,158,66
+98,wallstreetbets,t3_10sqhrs,Yeeeeeeeeee,,0.89,33,0,33,10
+99,wallstreetbets,t3_10sxsl0,"Down 50k, up 24k on the week though. Yolo put hold for next week.","Lets see how this goes.  Confident market will correct.  No reason Apple should of floated at 155 all day today.  
+
+https://preview.redd.it/3czuc2hhy1ga1.png?width=2680&amp;format=png&amp;auto=webp&amp;v=enabled&amp;s=b878d2ebb7676e2ae3057af53a8fd82d818d7baa",0.81,13,0,13,21
+100,wallstreetbets,t3_10svjql,Macro Concerns for Mr. Market,"Going into next week as we (everybody but me, actually) blew the top off this mother fucker to start 2023 and wrecked my long-dated puts, things have been happening in the underbelly of Mr. Market that are pretty concerning. Seems like the latter half of today was proof of that, but I digress:
+
+1. DXY (Dollar) has seemingly found it's footing, up \~1.2% today and likely closing \~$103 sans a selloff while I write this.  This will further fuck earnings.
+2. VIX ditto as above - seemed to have bottomed \~$17.30 this week, but has snuck up over the past two days and will likely climb as earnings take a further shit next week (with companies that will not be announcing buybacks to provide a cushion).
+3. Natural Gas is riding a 25 MONTH low, beginning to climb today. Might have a bit more to fall but the risk is to the upside here by a mile. This trend has likely put downwards pressure on inflation readings to a lesser degree than oil, however it's still a thorn in consumers and manufacturers sides and increases here will cause pain.
+4. Brent Crude seems to be at an inflection point. It's still up \~42% over the last three years, and 20% over the last five years. However, it's down 8% over the last year. I'm not an oil man and don't know what the fuck is going to happen here, however many analysts are still calling for oil to retouch $100/barrel. If that does occur, this will restart the inflation engine.
+5. Clear back in June '22 the 10y/2y spread inverted. It's stayed inverted ever since, dropping to almost -.7 as of today. That is essentially Mr. Yield calling 911 on Mr. Market for driving as drunk as he's seen him in 40 years (that's the last time we were inverted this hard).
+
+The FED decided in the last meeting, as I've said in comments elsewhere, that we probably won't see new lows this year sans a major catalyst. Why Powell was so dovish is something I'll never understand, but his job is based on politics and not performance (well, it's certainly performative but not based on results). Irrespective, there was and continues to be no reason for stretching a stock like Amazon to 30% gains in a month, or SPY +\~8% in the same period.
+
+Good luck out there.",0.89,15,0,15,11
+101,wallstreetbets,t3_10rwl5e,44k AAPL Short,,0.95,2146,0,2146,842
